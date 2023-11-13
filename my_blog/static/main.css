@@ -8,9 +8,14 @@ body {
     color: #444444;
   }
 
-  .nav1 {
+  .nav1{
     display: flex;
     justify-content: space-between;
+  }
+
+  .post_image {
+    display: flex;
+    justify-content: center;
   }
   
   .bg-steel {
